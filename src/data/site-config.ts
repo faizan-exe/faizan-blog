@@ -38,62 +38,43 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Ahmed Faizan',
+    subtitle: 'Blogs',
+    description: 'Blogs by Ahmed Faizan',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'Blog',
             href: '/'
         },
         {
             text: 'Projects',
             href: '/projects'
         },
-        {
-            text: 'Blog',
-            href: '/blog'
-        },
-        {
-            text: 'Tags',
-            href: '/tags'
-        }
+       
+        
     ],
     footerNavLinks: [
-        {
-            text: 'About',
-            href: '/about'
-        },
+       
         {
             text: 'Contact',
-            href: '/contact'
+            href: 'mailto:faizanofficial120@gmail.com'
         },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
+        
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'GitHub',
+            href: 'https://github.com/faizan-exe'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/ahmed-faizan-59b05719b/'
         },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
+       
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
@@ -110,7 +91,7 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
+        title: 'Subscribe to Newsletter',
         text: 'One update per week. All the latest posts directly in your inbox.',
         formUrl: '#'
     },
