@@ -1,0 +1,16 @@
+name: Deploy to Surge
+
+on: push
+
+jobs:
+    my-job:
+        name: Deploy to Surge
+        runs-on: ubuntu-latest
+        steps:
+            - name: Deploy to faizan-exe.surge.sh
+              uses: dswistowski/surge-sh-action@v1
+              with:
+                  domain: 'faizan-exe.surge.sh'
+                  project: '.'
+                  login: ${{ secrets.surge_login }}
+                  token: ${{ secrets.surge_token }}
