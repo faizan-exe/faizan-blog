@@ -1,20 +1,16 @@
 ---
-title: The Advantages & Disadvantages of Working from Home
-excerpt: In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes.
+title: For the Love of Startups
+excerpt: The idea of doing startup has come to every mind at least once. But can everyone entertain this thought and put into execution?
 publishDate: 'Aug 5 2023'
 tags:
   - Guide
 seo:
   image:
     src: '/post-1.jpg'
-    alt: A person standing at the window
+    alt: The Death of Socrates
 ---
 
-![A person standing at the window](/post-1.jpg)
-
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
-
-In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes. While this shift has brought about many benefits, it has also introduced its fair share of challenges. Let's explore the advantages and disadvantages of working from home.
+![The Death of Socrates](/post-1.jpg)
 
 ## Advantages of Working from Home
 
